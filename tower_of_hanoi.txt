@@ -1,0 +1,6 @@
+"TOWER OF HANOI"
+
+RULES:
+1. Cannot place larger disk on top of smaller one.
+2. Only move one disk at a time.
+3. Move disk between 3 towers (A, B, C).
